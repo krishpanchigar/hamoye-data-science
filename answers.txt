@@ -1,0 +1,82 @@
+Answer 11: 209460.54 and 269617.53
+
+Answer 12: 135.23596649549626 and 1603.4039839425013
+
+Answer 13: 1535 and 2.5187470259094566
+
+                     Y2014      Y2015      Y2016      Y2017      Y2018
+Element                                                               
+Import Quantity  274144.48  267018.46  286582.78  294559.09  287997.09
+Answer 15 is: 2017
+
+Element
+Production    1931287.75
+Name: Y2014, dtype: float64
+Answer 16 is: 1931287.75
+
+Element
+Domestic supply quantity                  2161192.10
+Production                                2075072.89
+Food                                      1303841.28
+Total Population - Both sexes             1140605.00
+Food supply (kcal/capita/day)              455261.00
+Processing                                 308429.00
+Import Quantity                            287997.09
+Feed                                       233489.68
+Export Quantity                            181594.80
+Losses                                     163902.00
+Other uses (non-food)                       91300.97
+Food supply quantity (kg/capita/yr)         49056.85
+Residuals                                   34864.00
+Seed                                        25263.14
+Stock Variation                             20577.91
+Protein supply quantity (g/capita/day)      11833.56
+Fat supply quantity (g/capita/day)          10258.69
+Tourist consumption                            90.00
+Name: Y2018, dtype: float64
+Answer 17 is Domestic supply quantity
+
+Element
+Tourist consumption                            90.00
+Fat supply quantity (g/capita/day)          10258.69
+Protein supply quantity (g/capita/day)      11833.56
+Stock Variation                             20577.91
+Seed                                        25263.14
+Residuals                                   34864.00
+Food supply quantity (kg/capita/yr)         49056.85
+Other uses (non-food)                       91300.97
+Losses                                     163902.00
+Export Quantity                            181594.80
+Feed                                       233489.68
+Import Quantity                            287997.09
+Processing                                 308429.00
+Food supply (kcal/capita/day)              455261.00
+Total Population - Both sexes             1140605.00
+Food                                      1303841.28
+Production                                2075072.89
+Domestic supply quantity                  2161192.10
+Name: Y2018, dtype: float64
+Answer 18 is Protein supply quantity (g/capita/day)
+
+Area     Element                               
+Algeria  Domestic supply quantity                  90023.42
+         Export Quantity                             811.54
+         Fat supply quantity (g/capita/day)          309.09
+         Feed                                      10668.00
+         Food                                      63736.33
+         Food supply (kcal/capita/day)             13288.00
+         Food supply quantity (kg/capita/yr)        1509.28
+         Import Quantity                           36238.29
+         Losses                                     7708.00
+         Other uses (non-food)                      3970.08
+         Processing                                 2479.00
+         Production                                60766.67
+         Protein supply quantity (g/capita/day)      367.28
+         Residuals                                   630.00
+         Seed                                        825.00
+         Stock Variation                            6172.00
+         Total Population - Both sexes             42228.00
+Name: Y2018, dtype: float64
+Answer 19 is 36238.29
+
+Answer 20 : 49
